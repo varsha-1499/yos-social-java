@@ -1,6 +1,8 @@
 Social API SDK for Java
 
 Software License Agreement (BSD License)
+
+
 Copyright (c) 2010, Yahoo! Inc.
 All rights reserved.
  
